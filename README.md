@@ -1,4 +1,4 @@
-# Bike Accessories Dataset Analysis (Power BI_Project)
+# Bike Accessories Dataset Analysis 
 This project focuses on a global manufacturing company that produces bike equipment and accessories. The goal was to derive actionable insights from their data to aid in decision-making. Let me briefly walk you through the process.
 ## Process
 - Data Collection Stage: Gathered and imported the CSV files in power BI.
