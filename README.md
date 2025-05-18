@@ -7,9 +7,7 @@ This project focuses on a global manufacturing company that produces bike equipm
 - Exploratory Data Analysis (EDA):Prepared several dashboards pages (sales executive page, Product details page, Map analysis page, Customer detals page, AI visuals page)
 
 Live Power BI Project 📊
-- <a href= "https://app.powerbi.com/view?r=eyJrIjoiNjExNjhkZjEtYWIxYS00YTExLThiNjgtMmQxNTE2ZWExMGZhIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D
-
-">Live Power BI Project</a>
+- <a href= "https://app.powerbi.com/view?r=eyJrIjoiNjExNjhkZjEtYWIxYS00YTExLThiNjgtMmQxNTE2ZWExMGZhIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 
 ##  Video Preview
 https://github.com/user-attachments/assets/6f3a203a-74c5-45c7-a62f-9984754c3e92
